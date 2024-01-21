@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  width: 100%;
+  height: 10%;
+  background-color: #5cdb95;
+  justify-content: space-between;
+  border-radius: 10px;
+  color: #05386b;
+  box-shadow: 3px 3px #379683;
+  overflow-x: hidden;
+}
+.navItem {
+  display: flex;
+}
+.navItem a:hover{
+color: #EDF5E1;
+}
+.navItem,
+h4,
+a {
+  text-decoration: none;
+  color: #05386b;
+  margin-right: 15%;
+  padding: 0 10px;
+  font-weight: 900;
+  font-size: 17px;
+}

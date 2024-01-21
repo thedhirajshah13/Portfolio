@@ -1,0 +1,10 @@
+.footer{
+    margin-top: 5%;
+    width: 100%;
+    
+   
+    box-shadow:  -3px -3px #379683;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
